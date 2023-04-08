@@ -1,9 +1,9 @@
-### Hi there 👋
-
 [![LinkedIn](https://img.shields.io/badge/Marcin_Kozub-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cozoob/ "Find me on LinkedIn")
 [![Gmail](https://img.shields.io/badge/-kozubmarcin10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kozubmarcin10@gmail.com "Send me an email")
 [![Trailblazer](https://img.shields.io/badge/Marcin_Kozub-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/mkozub4 "Find me on Trailblazer")
 
+### Hi there 👋
+### I'm ✨ Marcin _Cozoob_ Kozub ✨
 
 💻 I'm a certified Junior Salesforce Developer.
 
@@ -14,6 +14,11 @@
 👨‍💻 When you work with me on a project, you can expect timely communication, attention to detail, and a dedication to quality. Whether you need help with a custom Apex trigger or a Lightning component, I'm here to assist you every step of the way.
 
 📧 If you're interested in working with me or just want to chat about Salesforce development, feel free to reach out! You can contact me through my GitHub, LinkedIn, Trailblazer profiles or via email. Let's make some awesome Salesforce projects together!
+
+#### I have worked with:
+
+
+(TODO)
 
 <!--
 **Cozoob/Cozoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
