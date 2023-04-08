@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/Marcin_Kozub-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cozoob/ "Find me on LinkedIn")
+[![Gmail](https://img.shields.io/badge/-kozubmarcin10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kozubmarcin10@gmail.com "Send me an email")
+
+
 <!--
 **Cozoob/Cozoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
