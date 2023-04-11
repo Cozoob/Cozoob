@@ -16,7 +16,7 @@
 📧 If you're interested in working with me or just want to chat about Salesforce development, feel free to reach out! You can contact me through my GitHub, LinkedIn, Trailblazer profiles or via email. Let's make some awesome Salesforce projects together!
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Salesforce](https://img.shields.io/badge/salesforce-%231572B6.svg?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
